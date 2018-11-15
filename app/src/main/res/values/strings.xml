@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pig Latin Translator</string>
+    <string name="InfoText">Type in any word to be translated to Pig Latin!</string>
+    <string name="input_text">Type in any word.</string>
+    <string name="button_text">Click to submit.</string>
+</resources>
